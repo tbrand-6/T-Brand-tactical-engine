@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>T-Brand Tactical Engine</title>
+  <link rel="stylesheet" href="style.css"> <!-- optional -->
+</head>
+<body>
+  <h2>T-Brand Tactical Engine</h2>
+
+  <!-- CHAT BOX -->
+  <div id="chatBox"></div>
+
+  <!-- INPUT + SEND BUTTON -->
+  <input id="userInput" placeholder="Type your message...">
+  <button id="sendBtn">Send</button>
+
+  <!-- LINK JS -->
+  <script src="script.js"></script>
+</body>
+</html>
